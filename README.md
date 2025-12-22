@@ -2,7 +2,7 @@
   
 # [AAAI 2026] *ProCache*: Constraint-Aware Feature Caching with Selective Computation for Diffusion Transformer Acceleration
 
-[![arXiv](https://img.shields.io/badge/Arixv-2512.17298-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2512.17298)
+[![arXiv](https://img.shields.io/badge/arXiv-2512.17298-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2512.17298)
 
 </div>
 
