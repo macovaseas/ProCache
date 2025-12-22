@@ -6,6 +6,8 @@
 <a href='https://arxiv.org/abs/2512.17298'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a>
 </p>
 
+</div>
+
 ## 📣 News
 * `2025/11/08` 💥💥 ProCache is honored to be accepted by AAAI 2026!
 
