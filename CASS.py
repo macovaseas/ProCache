@@ -222,10 +222,10 @@ if __name__ == "__main__":
 
         # Display the raw binary pattern s
         # 1 = Full Compute, 0 = Cache
-        print(f"s  (Original): {str(s)}")
+        print(f"s_{idx+1}={str(s)}")
 
         # 2. Apply Selective Computation Injection (Section 3.3)
         # Returns s' where 2 = Selective Compute
         s_prime = inject_selective_computation(s)
-        print(f"s' (Injected): {str(s_prime)}")
+        print(f"s_{idx+1}_injected={str(s_prime)}")
         print("")
