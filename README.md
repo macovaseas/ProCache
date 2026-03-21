@@ -6,18 +6,19 @@
 
 </div>
 
+## Overview
+
+**ProCache** speeds up Diffusion Transformers with *constraint-aware* feature caching and *selective* computation, trading redundant work for quality-preserving inference.
+
 ## 📣 News
 * `2026/03/21` 📌 Repository updated: experiment guides for DiT, PixArt-α and FLUX.
 * `2025/11/08` 💥💥 ProCache is honored to be accepted by AAAI 2026!
 
 ![ProCache](assets/poster.png) 
 
-
-The offical code for ProCache is coming soon.
-
 ## Codebase
 
-This codebase is built upon the awesome [ToCa](https://github.com/Shenyi-Z/ToCa.git) and [TaylorSeer](https://github.com/Shenyi-Z/TaylorSeer.git).
+This codebase is built upon the awesome [ToCa](https://github.com/Shenyi-Z/ToCa.git) and [TaylorSeer](https://github.com/Shenyi-Z/TaylorSeer.git). We are grateful to the authors for their open releases and for advancing token-wise feature caching and forecasting in diffusion transformers.
 
 ## Experiments
 
@@ -48,4 +49,4 @@ To run experiments with ProCache, follow the instructions in the model-specific 
 
 ## :e-mail: Contact
 
-If you have any questions, please email [`chenyaofo@scut.edu.cn`](mailto:chenyaofo@scut.edu.cn).
+If you have any questions, please email [`fanpucao@gmail.com`](mailto:fanpucao@gmail.com) or [`chenyaofo@scut.edu.cn`](mailto:chenyaofo@scut.edu.cn).
