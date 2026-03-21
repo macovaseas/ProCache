@@ -10,11 +10,11 @@
 
 **ProCache** speeds up Diffusion Transformers with *constraint-aware* feature caching and *selective* computation, trading redundant work for quality-preserving inference.
 
+![ProCache](assets/poster.png) 
+
 ## 📣 News
 * `2026/03/21` 📌 Repository updated: experiment guides for DiT, PixArt-α and FLUX.
 * `2025/11/08` 💥💥 ProCache is honored to be accepted by AAAI 2026!
-
-![ProCache](assets/poster.png) 
 
 ## Codebase
 
