@@ -13,7 +13,7 @@
 ![ProCache](assets/poster.png) 
 
 ## 📣 News
-* `2026/03/21` 📌 Repository updated: experiment guides for DiT, PixArt-α and FLUX.
+* `2026/03/21` 📌 The code has been released.
 * `2025/11/08` 💥💥 ProCache is honored to be accepted by AAAI 2026!
 
 ## Codebase
