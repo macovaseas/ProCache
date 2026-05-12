@@ -17,10 +17,6 @@
 * `2026/03/21` 📌 The code has been released.
 * `2025/11/08` 💥💥 ProCache is honored to be accepted by AAAI 2026!
 
-## Codebase
-
-This codebase is built upon the awesome [ToCa](https://github.com/Shenyi-Z/ToCa.git) and [TaylorSeer](https://github.com/Shenyi-Z/TaylorSeer.git). We are grateful to the authors for their open releases and for advancing token-wise feature caching and forecasting in diffusion transformers.
-
 ## Experiments
 
 To run experiments with ProCache, follow the instructions in the model-specific markdown files in this repository (each backbone has its own guide):
@@ -33,6 +29,9 @@ To run experiments with ProCache, follow the instructions in the model-specific 
 
 - [ ] **HunyuanVideo:** We plan to add ProCache-style acceleration for **HunyuanVideo** (text-to-video) in a future release.
 
+## Acknowledgement
+
+ProCache is built upon the awesome [ToCa](https://github.com/Shenyi-Z/ToCa.git) and [TaylorSeer](https://github.com/Shenyi-Z/TaylorSeer.git). We are grateful to the authors for their open releases and for advancing feature caching in diffusion transformers.
 
 ## 📌 Citation
 
